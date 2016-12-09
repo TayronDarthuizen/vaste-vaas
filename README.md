@@ -8,7 +8,7 @@
 <body>
 <h1> De ronde kaas <h>
 <br>
-<p> Er bestaan veel kazen op de wereld.</p>
+<p> <small>Er bestaan veel kazen op de wereld.</small></p>
 
 
 
